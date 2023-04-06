@@ -2,43 +2,157 @@
 	"status": [{
 			"Id": 1,
 			"Course": "Yoga",
-			"Personal Trainers": 9,
-			"General Trainers": 8,
+			"Trainers": 9,
 			"Total": 17
 		},
 		{
 			"Id": 2,
 			"Course": "Aerobics",
-			"Personal Trainers": 12,
-			"General Trainers": 10,
+			"Trainers": 12,
 			"Total": 22
 		},
 		{
 			"Id": 3,
 			"Course": "Fitness",
-			"Personal Trainers": 14,
-			"General Trainers": 12,
+			"Trainers": 14,
 			"Total": 26
 		},
 		{
 			"Id": 4,
 			"Course": "Body Building",
-			"Personal Trainers": 11,
-			"General Trainers": 9,
+			"Trainers": 11,
 			"Total": 20
 		},
 		{
 			"Id": 5,
 			"Course": "Zumba",
-			"Personal Trainers": 15,
-			"General Trainers": 12,
+			"Trainers": 15,
 			"Total": 27
 		},
 		{
 			"Id": 6,
 			"Course": "Flexibility",
-			"Personal Trainers": 7,
-			"General Trainers": 5,
+			"Trainers": 7,
+			"Total": 12
+		},
+		   {
+			"Id": 7,
+			"Course": "Aerobics",
+			"Trainers": 12,
+			"Total": 22
+		},
+		{
+			"Id": 8,
+			"Course": "Fitness",
+			"Trainers": 14,
+			"Total": 26
+		},
+		{
+			"Id": 9,
+			"Course": "Body Building",
+			"Trainers": 11,
+			"Total": 20
+		},
+		{
+			"Id": 10,
+			"Course": "Zumba",
+			"Trainers": 15,
+			"Total": 27
+		},
+		{
+			"Id": 11,
+			"Course": "Flexibility",
+			"Trainers": 7,
+			"Total": 12
+		},
+		   {
+			"Id": 12,
+			"Course": "Aerobics",
+			"Trainers": 12,
+			"Total": 22
+		},
+		{
+			"Id": 13,
+			"Course": "Fitness",
+			"Trainers": 14,
+			"Total": 26
+		},
+		{
+			"Id": 14,
+			"Course": "Body Building",
+			"Trainers": 11,
+			"Total": 20
+		},
+		{
+			"Id": 15,
+			"Course": "Zumba",
+			"Trainers": 15,
+			"Total": 27
+		},
+		{
+			"Id": 16,
+			"Course": "Flexibility",
+			"Trainers": 7,
+			"Total": 12
+		},
+		   {
+			"Id": 17,
+			"Course": "Aerobics",
+			"Trainers": 12,
+			"Total": 22
+		},
+		{
+			"Id": 18,
+			"Course": "Fitness",
+			"Trainers": 14,
+			"Total": 26
+		},
+		{
+			"Id": 19,
+			"Course": "Body Building",
+			"Trainers": 11,
+			"Total": 20
+		},
+		{
+			"Id": 20,
+			"Course": "Zumba",
+			"Trainers": 15,
+			"Total": 27
+		},
+		{
+			"Id": 21,
+			"Course": "Flexibility",
+			"Trainers": 7,
+			"Total": 12
+		},
+		   {
+			"Id": 22,
+			"Course": "Aerobics",
+			"Trainers": 12,
+			"Total": 22
+		},
+		{
+			"Id": 23,
+			"Course": "Fitness",
+			"Trainers": 14,
+			"Total": 26
+		},
+		{
+			"Id": 24,
+			"Course": "Body Building",
+			"Trainers": 11,
+			"Total": 20
+		},
+		{
+			"Id": 25,
+			"Course": "Zumba",
+			"Trainers": 15,
+			"Total": 27
+		},
+		{
+			"Id": 26,
+			"Course": "Flexibility",
+			"Trainers": 7,
 			"Total": 12
 		}
 	]
